@@ -1,0 +1,8 @@
+# 忽略大文件/中间结果
+新闻推荐/temp_results/
+新闻推荐/tcdata/articles_emb.csv
+*.pkl
+*.csv
+*.npy
+*.h5
+*.model
